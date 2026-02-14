@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Needhi Patel</h1>
 <h3 align="center">great to see you here !!!!</h3>
 
+- 🦖 i am computer engineering graduated , making my way into tech
+
 - 🌱 I’m currently learning **about blockchain and crypto**
 
 - 📫 How to reach me **needhi.patel.18@gmail.com**
