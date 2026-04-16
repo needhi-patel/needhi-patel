@@ -1,5 +1,5 @@
 # 💫 About Me:
-i am graduated computer engineer . making my way into tech .<br><br>im currently learning about blockchain and smart contract .<br><br>i have done internship as react js developer and as research intern
+i am graduated computer engineer . making my way into tech .<br><br>i have done internship as react js developer and as research intern
 
 
 ## 🌐 Socials:
